@@ -1,2 +1,2 @@
-# test.github.io
+# mqc25.github.io
 Personal website
